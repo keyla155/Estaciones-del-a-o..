@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+          <recursos>$C:\EdiLim\Imagenes\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>185465</corfondo>
+        <corbanda>1E5A60</corbanda>
+        <cornavega>1E5A60</cornavega>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>estaciones del año</titulo>
+          <autor>keyla</autor>
+        <logo>..\..\..\..\EdiLim\Imagenes\logo.jpg</logo>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="..\..\..\..\EdiLim\Imagenes\SONIDO RESPUESTA CORRECTA.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="..\..\..\..\EdiLim\Imagenes\Y2meta.app - efecto de sonido INCORRECTO (128 kbps).mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>..\..\..\..\EdiLim\Imagenes\logo.jpg</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="46">LAS ESTACIONES DEL AÑO<br>
+<br>
+</font><font color="#080000" face="Arial" size="32">Las estaciones son causadas por la inclinación del eje de la Tierra mientras orbita alrededor del Sol. Esta inclinación hace que diferentes partes del planeta reciban diferentes cantidades de luz solar a lo largo del año, lo que provoca los cambios estacionales.<br>
+Es importante notar que las estaciones son diferentes dependiendo del hemisferio. Cuando es verano en el hemisferio norte, es invierno en el hemisferio sur.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>11</tipo>
+              <cabeceira>Identifica la estacion</cabeceira>
+              <modo>3</modo>
+              <cousa nome="verano">..\..\..\..\EdiLim\Imagenes\beach-summer-colored-cartoon-illustration-free-vector.jpg</cousa>
+              <cousa nome="otoño">..\..\..\..\EdiLim\Imagenes\pngtree-cartoon-illustration-of-the-fall-season-picture-image_3166905.jpg</cousa>
+              <cousa nome="invierno">..\..\..\..\EdiLim\Imagenes\pngtree-winter-beautiful-cartoon-illustration-picture-image_2445979.jpg</cousa>
+              <cousa nome="primavera">..\..\..\..\EdiLim\Imagenes\pngtree-cartoon-spring-natural-landscape-background-picture-image_1339182.jpg</cousa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>50</tipo>
+              <cabeceira>A que estacion pertenece cada objeto</cabeceira>
+              <peza imaxe="..\..\..\..\EdiLim\Imagenes\hojas.jpg"  son="\">otoño</peza>
+              <peza imaxe="..\..\..\..\EdiLim\Imagenes\chaqueta.jpg"  son="\">invierno</peza>
+              <peza imaxe="..\..\..\..\EdiLim\Imagenes\helado.jpg"  son="\">verano</peza>
+        </paxina>
+        <paxina id="4" >
+              <tipo>4</tipo>
+              <modo>2</modo>
+              <sopa enun="..\..\..\..\EdiLim\Imagenes\beach-summer-colored-cartoon-illustration-free-vector.jpg">verano</sopa>
+              <sopa enun="..\..\..\..\EdiLim\Imagenes\pngtree-winter-beautiful-cartoon-illustration-picture-image_2445979.jpg">invierno</sopa>
+              <sopa enun="..\..\..\..\EdiLim\Imagenes\images.jpeg">primavera</sopa>
+              <sopa enun="..\..\..\..\EdiLim\Imagenes\hojas.jpg">otoño</sopa>
+              <sopa enun="\">chaqueta</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="5" >
+              <tipo>51</tipo>
+              <valor>2</valor>
+              <peza imaxe="..\..\..\..\EdiLim\Imagenes\hojas.jpg">1</peza>
+              <peza imaxe="..\..\..\..\EdiLim\Imagenes\157257989-ilustración-de-vector-de-dibujos-animados-de-paraguas-prediseñadas-de-sombrilla-aislado-en-blanco.jpg">2</peza>
+              <forma>1</forma>
+              <cadro>1</cadro>
+        </paxina>
+    </libro>
+</lim>
